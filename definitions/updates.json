@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "https://github.com/neomissing/toolkit/main/download/Windows/YesItWorks.jpg",
+      "download-url": "https://github.com/neomissing/toolkit/tree/main/download/Windows/YesItWorks.jpg",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
