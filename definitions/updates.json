@@ -1,0 +1,39 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://github.com/neomissing/toolkit/main/download/Windows/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Windows. Go on...",
+      "mandatory": true
+    },
+    "osx": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://github.com/neomissing/toolkit/main/download/Osx/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Mac OS X. Go on...",
+      "mandatory": true
+    },
+    "linux": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://github.com/neomissing/toolkit/main/download/Linux/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Linux. Go on...",
+      "mandatory": true
+    },
+    "ios": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://github.com/neomissing/toolkit/main/download/Ios/YesItWorks.jpg",
+      "changelog": "This is an example changelog for iOS. Go on...",
+      "mandatory": true
+    },
+    "android": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://github.com/neomissing/toolkit/main/download/Android/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Android. Go on...",
+      "mandatory": true
+    }
+  }
+}
