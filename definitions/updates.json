@@ -10,7 +10,7 @@
     "osx": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "https://github.com/neomissing/toolkit/main/download/Osx/YesItWorks.jpg",
+      "download-url": "https://github.com/neomissing/toolkit/main/download/OSX/YesItWorks.jpg",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
       "mandatory": true
     },
@@ -24,7 +24,7 @@
     "ios": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "https://github.com/neomissing/toolkit/main/download/Ios/YesItWorks.jpg",
+      "download-url": "https://github.com/neomissing/toolkit/main/download/IOS/YesItWorks.jpg",
       "changelog": "This is an example changelog for iOS. Go on...",
       "mandatory": true
     },
